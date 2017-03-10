@@ -46,6 +46,8 @@ Tilanne 7.3.2017
  
 ### Ohjelmistotestaus
 
+* Kokeeseen tulee lukea seuraava [materiaali](https://prove.fi/wp-content/uploads/Testauksen_pikaopas2.pdf)
+
 - [] Testitapaus (Test Case)
 - [] Testisuunnitelma (Test Plan)
 - [] Testaustaso (Testing Level)
