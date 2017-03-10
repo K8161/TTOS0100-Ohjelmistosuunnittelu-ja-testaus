@@ -7,14 +7,14 @@ Tilanne 7.3.2017
 
 ###Palvelumuotoilu (Service Desing)
 
--  [] Mitä tarkoittaa palvelumuotoilu? (Service Design)
--  [] Sidosryhmä (Stake Holder)
--  [] Sidosryhmäkartta/kuvaus (Stake holder map)
--  [] Asiakaspolku (Customer journey map)
--  [] Uimaratakaavio (Swim Lane diagram)
--  [] Sidosryhmäkartta (Stakeholder map)
--  [] Asiakaspersoonat / profiilit (Personas)
--  [] Kohderyhmä (Focus Group)
+ -  [] Mitä tarkoittaa palvelumuotoilu? (Service Design)
+ -  [] Sidosryhmä (Stake Holder)
+ -  [] Sidosryhmäkartta/kuvaus (Stake holder map)
+ -  [] Asiakaspolku (Customer journey map)
+ -  [] Uimaratakaavio (Swim Lane diagram)
+ -  [] Sidosryhmäkartta (Stakeholder map)
+ -  [] Asiakaspersoonat / profiilit (Personas)
+ -  [] Kohderyhmä (Focus Group)
 
 ###Vaatimusmäärittely (Requirement Specification)
 
