@@ -11,48 +11,48 @@ Tilanne 7.3.2017
 -  [] Sidosryhmä (Stake Holder)
 -  [] Sidosryhmäkartta/kuvaus (Stake holder map)
 -  [] Asiakaspolku (Customer journey map)
-- [] Uimaratakaavio (Swim Lane diagram)
-- [] Sidosryhmäkartta (Stakeholder map)
-- [] Asiakaspersoonat / profiilit (Personas)
-- [] Kohderyhmä (Focus Group)
+-  [] Uimaratakaavio (Swim Lane diagram)
+-  [] Sidosryhmäkartta (Stakeholder map)
+-  [] Asiakaspersoonat / profiilit (Personas)
+-  [] Kohderyhmä (Focus Group)
 
 ###Vaatimusmäärittely (Requirement Specification)
 
-- [] Mitä tarkoitetaan vaatimusmäärittelyllä?
-- [] Asiakkaan toiveet/tarpeet (Customer Needs)
-- [] Liiketoiminta tavoitteet (Business Goals)
-- [] Tuotteen ominaisuus/piirre (Feature)
-- [] Mitä ovat Toiminnalliset vaatimukset (Functional Requirements)
-- [] Mitä ovat Ei-toiminnalliset vaatimukset (Non Functional Requirements)
+-  [] Mitä tarkoitetaan vaatimusmäärittelyllä?
+-  [] Asiakkaan toiveet/tarpeet (Customer Needs)
+-  [] Liiketoiminta tavoitteet (Business Goals)
+-  [] Tuotteen ominaisuus/piirre (Feature)
+-  [] Mitä ovat Toiminnalliset vaatimukset (Functional Requirements)
+-  [] Mitä ovat Ei-toiminnalliset vaatimukset (Non Functional Requirements)
 
 
 ### UML (Universal Modeling Language)
 
-- Mikä tarkoittaa UML?
-- [] UML-standardi yleisesti (Unified Modeling Languange)
-- [] Toimija (Actor) 
-- [] Käyttötapaus (Use Case)
-- [] Viestiyhteyskaavio - sekvenssikaavio (Sequence Diagram)
-- [] Tilakone (State Chart Diagram)
-- [] Luokkakaavio (Class Diagram)
+-  Mikä tarkoittaa UML?
+-  [] UML-standardi yleisesti (Unified Modeling Languange)
+-  [] Toimija (Actor) 
+-  [] Käyttötapaus (Use Case)
+-  [] Viestiyhteyskaavio - sekvenssikaavio (Sequence Diagram)
+-  [] Tilakone (State Chart Diagram)
+-  [] Luokkakaavio (Class Diagram)
 
 ###Prototyyppi (User interface prototyping /mocking)
 
-- [] Wireframe
-- [] HIFI/LOFI 
-- [] Mikä MockUp?
-- [] Mikä on Prototyyppi?
-- [] Käyttöliittymä (User Interface)
+-  [] Wireframe
+-  [] HIFI/LOFI 
+-  [] Mikä MockUp?
+-  [] Mikä on Prototyyppi?
+-  [] Käyttöliittymä (User Interface)
  
 ### Ohjelmistotestaus
 
-* Kokeeseen tulee lukea seuraava [materiaali](https://prove.fi/wp-content/uploads/Testauksen_pikaopas2.pdf)
+*  Ehdottomasti tutustu seuraavaan [materiaaliin](https://prove.fi/wp-content/uploads/Testauksen_pikaopas2.pdf)
 
-- [] Testitapaus (Test Case)
-- [] Testisuunnitelma (Test Plan)
-- [] Testaustaso (Testing Level)
-- [] Jäljitettävyys (Traceability)
-- [] Testikohde (Test Target)
-- []  Mustalaatikkotestataus (Blackbox Testing)
-- [] Lasilaatiikotestaus (White Box Testing)
-- [] Hyväksyntätestaus
+-  [] Testitapaus (Test Case)
+-  [] Testisuunnitelma (Test Plan)
+-  [] Testaustaso (Testing Level)
+-  [] Jäljitettävyys (Traceability)
+-  [] Testikohde (Test Target)
+-  []  Mustalaatikkotestataus (Blackbox Testing)
+-  [] Lasilaatiikotestaus (White Box Testing)
+-  [] Hyväksyntätestaus
