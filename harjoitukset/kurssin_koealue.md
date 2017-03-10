@@ -48,8 +48,9 @@ Tilanne 7.3.2017
  
 ### Ohjelmistotestaus
 
-*  Ehdottomasti tutustu seuraavaan [materiaaliin](https://prove.fi/wp-content/uploads/Testauksen_pikaopas2.pdf)
 
+
+- [ ] Tutustu seuraavaan [materiaaliin](https://prove.fi/wp-content/uploads/Testauksen_pikaopas2.pdf)
 - [ ] Testitapaus (Test Case)
 - [ ] Testisuunnitelma (Test Plan)
 - [ ] Testaustaso (Testing Level)
