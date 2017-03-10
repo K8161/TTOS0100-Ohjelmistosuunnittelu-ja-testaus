@@ -3,7 +3,7 @@
 Tässä lista erilaisia aihealueita ja käsitteitä, joihin pitää ja kannattaa tutustua ennen koetta!
 Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seurata aktiivisesti.
 
-Tilanne 7.3.2017
+Tilanne 10.3.2017
 
 ###Palvelumuotoilu (Service Desing)
 
