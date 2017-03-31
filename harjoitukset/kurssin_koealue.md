@@ -5,7 +5,7 @@ Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seura
 
 Tilanne 10.3.2017
 
-###Palvelumuotoilu (Service Desing)
+### Palvelumuotoilu (Service Desing)
 
 - [ ] Mitä tarkoittaa palvelumuotoilu? (Service Design)
 - [ ] Sidosryhmä (Stake Holder)
@@ -16,7 +16,7 @@ Tilanne 10.3.2017
 - [ ] Asiakaspersoonat / profiilit (Personas)
 - [ ] Kohderyhmä (Focus Group)
 
-###Vaatimusmäärittely (Requirement Specification)
+### Vaatimusmäärittely (Requirement Specification)
 
 - [ ] Mitä tarkoittaa vaatimusmäärittelytyö? (Requirement gathering)
 - [ ] Vaatimusmäärittelydokumentti (Requirement Specification Document)
@@ -37,7 +37,7 @@ Tilanne 10.3.2017
 - [ ] Tilakone (State Chart Diagram)
 - [ ] Luokkakaavio (Class Diagram)
 
-###Prototyyppi (User interface prototyping /mocking)
+### Prototyyppi (User interface prototyping /mocking)
 
 - [ ] Mitä tarkoitetaan prototyypillä kurssin kontekstissa?
 - [ ] Wireframe 
