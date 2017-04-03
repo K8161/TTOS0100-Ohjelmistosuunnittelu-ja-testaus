@@ -59,7 +59,6 @@ Tilanne 10.3.2017
 - [ ] Positiivinen testi (Positive Test Case)
 - [ ] Negatiivinen testi (Negative Test Case)
 - [ ] Testioraakkeli (Test Oracle)
-- [ ] Vikaraportti (Defect Report)
 - [ ] Mustalaatikkotestataus (Blackbox Testing)
 - [ ] Lasilaatiikotestaus (White Box Testing)
 - [ ] Hyväksyntätestaus (Acceptance Testing)
