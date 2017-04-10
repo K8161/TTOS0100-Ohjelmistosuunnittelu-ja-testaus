@@ -5,8 +5,8 @@ Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seura
 
 Tilanne 10.3.2017
 
-Materiaalina käytetään [Linkkilistaa](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/info-materiaaleja-ja-linkkeja.md)
-ja tuntien aikana käytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/info-tapaamisten-ohjelma)
+Kokeeseen kerratessa kannattaa tutkia [Linkkilistaa](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/info-materiaaleja-ja-linkkeja.md)
+ja tuntien aikana läpikäytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/info-tapaamisten-ohjelma)
 
 
 ### Palvelumuotoilu (Service Desing)
