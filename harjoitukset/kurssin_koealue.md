@@ -3,10 +3,10 @@
 Tässä lista erilaisia aihealueita ja käsitteitä, joihin pitää ja kannattaa tutustua ennen koetta!
 Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seurata aktiivisesti.
 
-Tilanne 10.3.2017
+Tilanne 10.4.2017
 
-Kokeeseen kerratessa kannattaa tutkia [Linkkilistaa](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/info-materiaaleja-ja-linkkeja.md)
-ja tuntien aikana läpikäytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/info-tapaamisten-ohjelma)
+**Kokeeseen kerratessa kannattaa tutkia [Linkkilistaa](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/info-materiaaleja-ja-linkkeja.md)
+ja tuntien aikana läpikäytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/info-tapaamisten-ohjelma)**
 
 
 ### Palvelumuotoilu (Service Desing)
