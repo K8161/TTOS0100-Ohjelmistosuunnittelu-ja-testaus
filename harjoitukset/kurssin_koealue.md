@@ -8,7 +8,7 @@ Tilanne 10.4.2017
 **Kokeeseen kerratessa kannattaa tutkia [Linkkilistaa](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/info-materiaaleja-ja-linkkeja.md)
 ja tuntien aikana läpikäytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/info-tapaamisten-ohjelma)**
 
-* Youtube avuksi ["Narsu selittää"](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb)
+* Youtube avuksi? ["Narsu selittää"](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb)
 * Sekalainen [lista](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl4NA35EgAfxLh-M51n5RdL3)
 
 ### Palvelumuotoilu (Service Desing)
