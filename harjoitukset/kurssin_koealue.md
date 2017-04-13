@@ -3,7 +3,17 @@
 Tässä lista erilaisia aihealueita ja käsitteitä, joihin pitää ja kannattaa tutustua ennen koetta!
 Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seurata aktiivisesti.
 
-Tilanne 10.4.2017
+Tilanne 13.4.2017
+
+
+# Uusintakokeen tulos jää voimaa
+
+* Voit uusia kokeen, jos saat hylätyn (kaksi yritystä) 
+* Jos olet saanut aiemmin hyväksytyn suorituksen ja tulet uusintakokeeseeen jää uuden kokeen arvosana voimaan!
+ 
+ 
+ 
+# Koealue ja materiaali
 
 **Kokeeseen kerratessa kannattaa tutkia [Linkkilistaa](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/info-materiaaleja-ja-linkkeja.md)
 ja tuntien aikana läpikäytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/info-tapaamisten-ohjelma)**
@@ -11,9 +21,7 @@ ja tuntien aikana läpikäytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0
 * Youtube avuksi? ["Narsu selittää"](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb)
 * Sekalainen [lista](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl4NA35EgAfxLh-M51n5RdL3)
 
-# Huomio! Uusintakokeen tulos jää voimaa
 
-* Eli jos tulet uusintakokeeseeen jää kokeen arvosana voimaan!
 
 
 ### Palvelumuotoilu (Service Desing)
