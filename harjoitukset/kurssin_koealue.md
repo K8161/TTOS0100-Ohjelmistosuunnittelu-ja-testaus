@@ -11,6 +11,11 @@ ja tuntien aikana läpikäytyjä [materiaaleja](https://github.com/JAMK-IT/TTOS0
 * Youtube avuksi? ["Narsu selittää"](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb)
 * Sekalainen [lista](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl4NA35EgAfxLh-M51n5RdL3)
 
+# Huomio! Uusintakokeen tulos jää voimaa
+
+* Eli jos tulet uusintakokeeseeen jää kokeen arvosana voimaan!
+
+
 ### Palvelumuotoilu (Service Desing)
 
 - [ ] Mitä tarkoittaa palvelumuotoilu? (Service Design)
