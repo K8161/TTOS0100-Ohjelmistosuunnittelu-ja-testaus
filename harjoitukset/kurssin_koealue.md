@@ -3,7 +3,7 @@
 Tässä lista erilaisia aihealueita ja käsitteitä, joihin pitää ja kannattaa tutustua ennen koetta!
 Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seurata aktiivisesti.
 
-Tilanne 13.4.2017
+Tilanne 18.4.2017
 
 
 # Uusintakokeen tulos jää voimaa
