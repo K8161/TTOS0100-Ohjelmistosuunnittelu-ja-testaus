@@ -15,6 +15,14 @@
 | Mallinnus | [UML Distilled - Third Edition, Martin Fowler](http://martinfowler.com/books/uml.html) | <img alt="" height="176" src="http://martinfowler.com/books/umldist.jpg" width="120" /> |
 
 
+## Verkkokursseja joista on ehdottomasti hyötyä!
+
+| Verkkokurssipalvelu | Mitä sieltä löytyy? | linkki |
+|:-:|:-:|:-:|
+| Tutorials Point | Kaikkea maan ja taivaan väliltä :) | |
+| Udemy | | |
+| Coursera | | |
+
 
 # Linkkejä liittyen aiheisiin..
 
