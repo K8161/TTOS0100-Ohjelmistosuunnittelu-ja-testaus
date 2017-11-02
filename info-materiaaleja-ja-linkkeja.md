@@ -17,11 +17,14 @@
 
 ## Verkkokursseja joista on ehdottomasti hyötyä!
 
+In progress....
+
 | Verkkokurssipalvelu | Mitä sieltä löytyy? | linkki |
 |:-:|:-:|:-:|
 | Tutorials Point | Kaikkea maan ja taivaan väliltä :) | |
 | Udemy | | |
 | Coursera | | |
+| Guru99 | | |
 
 
 # Linkkejä liittyen aiheisiin..
