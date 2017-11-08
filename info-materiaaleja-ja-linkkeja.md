@@ -26,6 +26,11 @@ In progress....
 | Coursera | | |
 | Guru99 | | |
 
+## Blogeja
+
+| Palvelu | Linkki |
+|:-:|:-:| 
+| Tivi | http://www.tivi.fi/blogit/ |
 
 # Linkkejä liittyen aiheisiin..
 
