@@ -1,5 +1,7 @@
 # Ohjelmistosuunnittelun ja testauksen kurssi - TTOS0100 - 5op
 
+
+0. [Kurssin wiki](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki)
 1. [Yleisesti](#yleisesti)
 3. [Aikataulu](#aikataulu)
 2. [Oppimateriaali](#oppimateriaali)
